@@ -6,8 +6,10 @@
 Changing The Code is NOT ALLOWED..!!
 You Are Free To Use This Code In Any Of Your Projects, But You Must Include The Following In Your Readme.Md (Copy & Paste)
 
-## Credits
+`Fork Tag`
+
 ```
+## Developer
 - [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
 ```
 
