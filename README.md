@@ -10,7 +10,7 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 
 ```
 ## Developer
-- [AutoApprove Bot by Mo Tech](https://github.com/PR0FESS0R-99/Auto-Approved-Bot)
+- [AutoApprove Bot by Mo Tech](https://github.com/thfilmy001/Auto-Approved-Bot)
 ```
 
 
