@@ -63,16 +63,16 @@ You Are Free To Use This Code In Any Of Your Projects, But You Must Include The 
 📍 𝗥𝗲𝗾𝘂𝗶𝗿𝗲𝗱 📍
 </p>
 <p align="center">
-<b>API_ID</b> <a href="https://youtu.be/5eEsvLAKVc0">Click Here</a>
+<b>API_ID</b> <a href="23163380">Click Here</a>
 </p>
 <p align="center">
-<b>API_HASH</b> <a href="https://youtu.be/5eEsvLAKVc0">Click Here</a>
+<b>API_HASH</b> <a href="2dca155e786c7db2d295e5b4ab10783b">Click Here</a>
 </p>
 <p align="center">
-<b>BOT_TOKEN</b> <a href="https://youtu.be/cB4UduCcNWs">Click Here</a>
+<b>BOT_TOKEN</b> <a href="6491914338:AAF2q-fD76izxeE3L5IJrdBE91JcXmNXOyY">Click Here</a>
 </p>
 <p align="center">
-<b>CHAT_ID</b> <a href="https://telegram.dog/MT_ID_BOT">Click Here</a> Group ID
+<b>CHAT_ID</b> <a href="5827915041">Click Here</a> Group ID
 </p>
 <p align="center">
 <b>APPROVED_WELCOME</b> <a href="https://youtu.be/cB4UduCcNWs">On Or Off Approved Welcome Text</a>
